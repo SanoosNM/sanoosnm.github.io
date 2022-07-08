@@ -1,6 +1,6 @@
 ## Sanoos NM 
 
-** Learner at Google & GitHub **
+Learner at Google & GitHub
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
