@@ -1,11 +1,11 @@
 ## Sanoos NM 
 **Since 1997**
 
-- Student at Google & GitHub
+- Student at Google & GitHub (https://sanoosnm.github.io/learn/)
 - Bike Lover
-- Crazy Traveller
-- Interest in Photography
-- Music Addicted
+- Crazy Traveller (https://sanoosnm.github.io/travel/)
+- Interest in Photography (https://sanoosnm.github.io/Photography/)
+- Music Addicted (https://sanoosnm.github.io/music/)
 - Hobby is Driving
 - Personal Blogger
 
