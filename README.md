@@ -1,12 +1,12 @@
 ## Sanoos NM 
 **Since 1997**
 
-Learner at Google & GitHub
-Bike Lover
-Crazy Traveller
-Interest in Photography
-Music Addicted
-Hobby is Driving
+- Student at Google & GitHub
+- Bike Lover
+- Crazy Traveller
+- Interest in Photography
+- Music Addicted
+- Hobby is Driving
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
