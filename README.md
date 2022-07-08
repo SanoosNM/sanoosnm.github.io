@@ -1,11 +1,11 @@
 # Sanoos NM 
 ### **Since 1997**
 
-- Student at Google & GitHub [Link](https://sanoosnm.github.io/learn/)
+- [Student at Google & GitHub](https://sanoosnm.github.io/learn/)
 - Bike Lover
-- Crazy Traveller [Link](https://sanoosnm.github.io/travel/)
-- Interest in Photography [Link](https://sanoosnm.github.io/Photography/)
-- Music Addicted [Link](https://sanoosnm.github.io/music/)
+- [Crazy Traveller](https://sanoosnm.github.io/travel/)
+- [Interest in Photography](https://sanoosnm.github.io/Photography/)
+- [Music Addicted](https://sanoosnm.github.io/music/)
 - Hobby is Driving
 - Personal Blogger
 
@@ -43,4 +43,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-[Image](https://github.com/SanoosNM/sanoosnm.github.io/blob/main/249864177_403372431343587_6815517442344633899_n.jpg)
+[(https://github.com/SanoosNM/sanoosnm.github.io/blob/main/249864177_403372431343587_6815517442344633899_n.jpg)]
