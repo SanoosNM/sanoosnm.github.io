@@ -1,5 +1,5 @@
-## Sanoos NM 
-**Since 1997**
+# Sanoos NM 
+### **Since 1997**
 
 - Student at Google & GitHub [Link](https://sanoosnm.github.io/learn/)
 - Bike Lover
